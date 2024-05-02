@@ -1,2 +1,3 @@
 I am writing for shellscrioting
 I am updating for show command in shell file
+i am updating in dev 
