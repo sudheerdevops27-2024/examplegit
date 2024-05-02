@@ -2,3 +2,4 @@ I am updating in dev  branch
 I am writing for the first time.
 i am writing for the second time
 I am updating for show command
+i am apdating in remote repo
