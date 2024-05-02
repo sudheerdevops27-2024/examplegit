@@ -1,3 +1,4 @@
 I am writing for the first time.
 i am writing for the second time
 I am updating for show command
+i am doing this for reset command
